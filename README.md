@@ -1,16 +1,11 @@
-# app_test_windows
+# Learn Flutter Intermediate #3 Windows
+This is a project for learn flutter intermediate #3 Windows.
 
-A new Flutter project.
+## What Did I Learn ?
+- Basic App Windows with Fluent UI
 
-## Getting Started
+## Dependencies
+- [fluent_ui](https://pub.dev/packages/fluent_ui)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+- [@theoarnan](https://www.github.com/theoarnan)
